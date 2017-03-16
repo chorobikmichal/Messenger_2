@@ -1,0 +1,8 @@
+.e(exe="a3 postmessage")
+.e(exe="a3 choose")
+.h(text="log in " size=2)
+.d()
+.r( action="", name="choice" value="add user",value="post message",value="view stream")
+
+
+

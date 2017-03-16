@@ -1,0 +1,4 @@
+all: a3
+
+a3: configParse.c
+	gcc configParse.c -std=c99 -g -Wall -ansi -o a3

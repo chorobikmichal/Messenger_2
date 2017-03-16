@@ -1,0 +1,3 @@
+@redfox05 This works in a context where you are not strict about which method you accept for your pages. In a context where you reject posts on pages that are expecting GET it will fail. I still think that using a link make sense with the caveat that it will not react to "spacebar" when active like button does. Also some style and behavior will be different (such as draggable). If you want the true "button-link" experience, having server side redirects
+for URL finishing by ? to remove it might be also an option. � Nicolas
+Bouvrette May 15 '16 at 15:49
